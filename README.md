@@ -1,7 +1,7 @@
 # meme-generator
 
 Simple meme generator (using React) that displays text on popular meme images. Images fetched using the imgflip API. 
-React states and effects used to manipulate input data and dynamically change DOM elelemts in the page. Live page: https://magarb98.github.io/vite-react-page/
+React states and effects used to manipulate input data and dynamically change DOM elelemts in the page. Live page: https://magarb98.github.io/meme-generator/
 
 ## Built with
 
